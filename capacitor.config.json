@@ -1,0 +1,9 @@
+{
+  "appId": "com.emberandco.app",
+  "appName": "Ember & Co",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
